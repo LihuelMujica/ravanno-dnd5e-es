@@ -2,8 +2,8 @@
 	"label": "Objetos (SRD)",
 	"entries": {
 		"Abacus": {
-			"name": "Abacus",
-			"description": "<p>The abacus, also called a counting frame, is a calculating tool.</p>"
+			"name": "ABACO",
+			"description": "<p>EL abacus, also called a counting frame, is a calculating tool.</p>"
 		},
 		"Acid (vial)": {
 			"name": "Acid (vial)",
